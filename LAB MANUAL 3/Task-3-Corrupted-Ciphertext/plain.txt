@@ -1,0 +1,4 @@
+This is my corrupted ciphertext experiment.
+We are testing different AES encryption modes.
+This file is longer than sixty four bytes.
+Security experiments are interesting and educational.
