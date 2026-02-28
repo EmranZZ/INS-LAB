@@ -1,0 +1,1 @@
+SHA1(message.txt)= 666ed96f90ea5e3cd4b9f8dd72d584b7661ec90b
