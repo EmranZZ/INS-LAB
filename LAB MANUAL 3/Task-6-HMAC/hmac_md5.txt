@@ -1,0 +1,1 @@
+HMAC-MD5(hmac_message.txt)= bf32a949328861ab37bde3f66429cdb5
