@@ -1,0 +1,1 @@
+SHA2-256(original.txt)= 49cb6d19626b25a3e9ffd04834eb3f71308e1235df31b45eea55f6d9996ecd7b

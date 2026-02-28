@@ -1,0 +1,1 @@
+MD5(original.txt)= 066b1f56682e6b71be66c172fa694d79
