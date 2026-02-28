@@ -1,0 +1,3 @@
+This is my Information and Network Security Lab Final.
+I am testing AES encryption modes.
+This is a sample text for encryption experiment.
